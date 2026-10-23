@@ -1,0 +1,17 @@
+
+# Personal expense records
+expenses.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment variables
+.env
+
+# Editor settings
+.vscode/
